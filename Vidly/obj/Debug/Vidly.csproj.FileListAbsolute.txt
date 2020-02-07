@@ -76,4 +76,3 @@ C:\Users\anna.clementson\source\repos\Vidly\Vidly\bin\Microsoft.CodeDom.Provider
 C:\Users\anna.clementson\source\repos\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\anna.clementson\source\repos\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\anna.clementson\source\repos\Vidly\Vidly\obj\Debug\Vidly.pdb
-C:\Users\anna.clementson\source\repos\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
